@@ -49,6 +49,12 @@ Latest changes:
     * bvi 1.4.0
     * cntlm 0.93beta5
     * decrypt FRITZ!OS configs v0.2 (renamed version of PeterPawn's script decode_passwords)
+<<<<<<< Updated upstream
+    * dovecot 2.3.2.1
+=======
+    * dovecot 2.3.4
+    * EIBD BCUSDK 0.0.5
+>>>>>>> Stashed changes
     * ISC dhcp 4.3.6-P1
     * E-MailRelay 1.9
     * getdns 1.4.2
